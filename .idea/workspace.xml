@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67e1b8a6-ae33-4a4d-8d1a-1d1fb45e63f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../OOPS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/src/Honda_Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/src/Manza_Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOPS/src/Swift_Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ChessBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ConsecutiveNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DateDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GenerateException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/InvalidAgeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MatrixAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StudentMarks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise_Exercise4/src/main/java/com/stackroute/ArrangeInAlphabeticalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise_Exercise4/src/main/java/com/stackroute/OccurenceInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise_Exercise4/src/main/java/com/stackroute/PatternMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise_Exercise4/src/main/java/com/stackroute/PresenceOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise_Exercise4/src/main/java/com/stackroute/ReplaceCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise_Exercise5/src/main/java/com/stackroute/ArrayListUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise_Exercise5/src/main/java/com/stackroute/FindOccurence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise_Exercise5/src/main/java/com/stackroute/MapString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise_Exercise5/src/main/java/com/stackroute/StudentInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/com/stackroute/pe2/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/com/stackroute/pe2/FileHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/com/stackroute/pe2/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/com/stackroute/pe2/MemberVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/com/stackroute/pe2/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/com/stackroute/pe2/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/com/stackroute/pe2/PowerOfFour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/com/stackroute/pe2/StudentResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/com/stackroute/pe2/Text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/test/com/stackroute/pe2/OddEvenTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/test/com/stackroute/pe2/PalindromeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/test/com/stackroute/pe2/PowerOfFourTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StudentMarks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MatrixAddition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="371">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DateDisplay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ChessBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ExceptionHandling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="9" column="16" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/InvalidAgeException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#82#83#0" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/GenerateException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MatrixAddition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DateDisplay.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ChessBoard.java" />
+        <option value="$PROJECT_DIR$/src/main/java/InvalidAgeException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ConsecutiveNumber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ExceptionHandling.java" />
+        <option value="$PROJECT_DIR$/src/main/java/GenerateException.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/../Practise_Exercise4/Practise_Exercise4.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="133" />
+    <option name="y" value="47" />
+    <option name="width" value="1400" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practise_Exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise_Exercise3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise_Exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise_Exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise_Exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise_Exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Practise_Exercise3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practise_Exercise3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GenerateException">
+    <configuration name="ChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChessBoard" />
+      <module name="Practise_Exercise3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsecutiveNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsecutiveNumber" />
+      <module name="Practise_Exercise3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DateDisplay" />
+      <module name="Practise_Exercise3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling" />
+      <module name="Practise_Exercise3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GenerateException" />
+      <module name="Practise_Exercise3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GenerateException" />
+        <item itemvalue="Application.ConsecutiveNumber" />
+        <item itemvalue="Application.ExceptionHandling" />
+        <item itemvalue="Application.ChessBoard" />
+        <item itemvalue="Application.DateDisplay" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67e1b8a6-ae33-4a4d-8d1a-1d1fb45e63f5" name="Default Changelist" comment="" />
+      <created>1557200251477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557200251477</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1533" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24949563" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.29490617" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6246649" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/DateDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ChessBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StudentMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ConsecutiveNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ExceptionHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="9" column="16" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/InvalidAgeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#82#83#0" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MatrixAddition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/GenerateException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
